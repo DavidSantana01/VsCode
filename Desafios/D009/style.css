@@ -1,0 +1,24 @@
+* {
+    background-color: rgb(56, 56, 56);
+    text-align: center;
+}
+
+#imgIndex {
+    height: 200px;
+    padding: 3px;
+    border-radius: 12px;
+}
+
+h1 {
+    color: white;
+}
+
+#htmlImg {
+    margin-top: 50px;
+    height: 200px;
+    border-radius: 12px;
+}
+
+p {
+    color: white;
+}
