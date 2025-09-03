@@ -1,4 +1,4 @@
 # VsCode
 Curso em Video
 
-Estou aprendendo a criar sites e agora gerenciar meus repositórios!
+Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
